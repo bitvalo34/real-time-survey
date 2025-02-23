@@ -14,6 +14,10 @@ This is an interactive survey application built with React, Vite, and Bootstrap.
 
 ## Getting Started
 
+## Live Demo
+
+Check out the live preview on CodeSandbox: [CodeSandbox Live Preview](https://codesandbox.io/p/sandbox/real-time-survey-rgss5x)
+
 ### Prerequisites
 
 - **Node.js** (version 14 or above)
